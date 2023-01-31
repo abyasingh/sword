@@ -1,5 +1,3 @@
-# sword
-
 ## **Installation Instructions** ##
 ```
 sudo apt update
