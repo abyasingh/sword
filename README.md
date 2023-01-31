@@ -2,6 +2,9 @@
 
 ## **Installation Instructions** ##
 ```
+sudo apt update
+sudo apt install memcached
+sudo apt install libmemcached-tools
 git clone https://github.com/abyasingh/sword.git
 cd sword/
 pip install -r requirement.txt
