@@ -3,5 +3,4 @@ numpy
 opencv-python
 statistics
 memcache
-git+https://git@github.com/rohithvarma3000/dagger.git
 opencv-contrib-python
